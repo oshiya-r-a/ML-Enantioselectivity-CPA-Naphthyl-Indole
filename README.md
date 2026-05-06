@@ -1,6 +1,6 @@
 # **Machine learning for predicting enantioselectivity in chiral phosphoric acid-catalyzed naphthyl-indole synthesis**
 
-![Image](https://github.com/user-attachments/files/27435296/toc-1.tif)
+![Image](https://github.com/oshiya-r-a/ML-Enantioselectivity-CPA-Naphthyl-Indole/blob/44b792e57602e06a1e6a8994d329b22e5630a348/toc-1.tif)
 
 ## Overview
 This repository contains the dataset and code used in our study on predicting enantioselectivity in chiral phosphoric acid (CPA)-catalyzed synthesis of naphthyl–indole derivatives using machine learning.
